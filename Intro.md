@@ -1,3 +1,5 @@
+OMR sheet MCQ scanner and test grader using Python and OpenCV
+
 ## **Key Points**
 1. Steps involved:
     1. Detect the OMR sheet
@@ -26,6 +28,9 @@
 
  ## **Commands to run the detection:**
  python test_grader.py --image images/test_01.png
+ python test_grader.py --image images/test_02.png
+ python test_grader.py --image images/test_03.png
+ python test_grader.py --image images/test_04.png
 
 ## **The limitations**
 1. There is no logic to handle non-filled bubbles.
