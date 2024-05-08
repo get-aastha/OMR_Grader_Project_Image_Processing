@@ -1,4 +1,4 @@
-OMR sheet MCQ scanner and test grader using Python and OpenCV
+OMR sheet MCQ scanner and test grader using Python and OpenCV. **Project report included**.
 
 ## **Key Points**
 1. Steps involved:
