@@ -34,3 +34,14 @@ OMR sheet MCQ scanner and test grader using Python and OpenCV. **Project report 
 
 ## **Output**
 
+![image](https://github.com/get-aastha/OMR_grader_project_image_processing/assets/108509128/6376e26c-542e-4588-9cb6-ab53f522049b)
+
+
+![image](https://github.com/get-aastha/OMR_grader_project_image_processing/assets/108509128/089fd144-d4a0-4b7b-96cc-6c4ccd28b9d1)
+
+
+![image](https://github.com/get-aastha/OMR_grader_project_image_processing/assets/108509128/a68c63d4-a9bb-4c62-b828-ddb8c9623a69)
+
+
+![image](https://github.com/get-aastha/OMR_grader_project_image_processing/assets/108509128/fa9de3e3-da57-4616-bb89-37a84a0810f1)
+
