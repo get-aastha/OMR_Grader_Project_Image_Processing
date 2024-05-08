@@ -32,6 +32,5 @@ OMR sheet MCQ scanner and test grader using Python and OpenCV. **Project report 
  python test_grader.py --image images/test_03.png
  python test_grader.py --image images/test_04.png
 
-## **The limitations**
-1. There is no logic to handle non-filled bubbles.
-2. Multiple bubbles marking is not handled.
+## **Output**
+
